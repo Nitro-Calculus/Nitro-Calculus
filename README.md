@@ -6,7 +6,7 @@
 
 ### About me :
 
-I am an apprentice Web developer at WF3.
+I am an apprentice Web developer.
 
 - 🔭 I'm working on the basics of computer programming.
 - :globe_with_meridians: I'm looking to collaborate on website projects to start and hope to improve in the near future.
