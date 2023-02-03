@@ -11,8 +11,8 @@ I am an apprentice Web developer.
 - :books: I'm working on the basics of computer programming.
 - :globe_with_meridians: I'm looking to collaborate on website projects to start and hope to improve in the near future.
 - :mag_right: I'm looking for help to progress in frontend and backend development and possibly any other programming language .
-- :computer: I want to make a career in OOP development.
-- ❤️ Computer science a discovery.
+- :dart: I want to make a career in OOP development.
+- :computer: Computer science a discovery.
 - :trollface: Fun fact : I've been called the absent-minded professor.
 ---
 ### Language and Tools :
