@@ -8,7 +8,7 @@
 
 - 🔭 I'm working on the basics of computer programming.
 - 🌱 I'm currently learning : HTML5, CSS3, JavaScript, JQuery and Angular.
-- :globe_with_meridians : I'm looking to collaborate on website projects to start and hope to improve in the near future.
+- :globe_with_meridians: I'm looking to collaborate on website projects to start and hope to improve in the near future.
 - 🤔 I'm looking for help to progress in frontend and backend development and possibly any other programming language .
 - ❤️ Computer science a discovery.
 - ⭐I want to make a career in OOP development.
