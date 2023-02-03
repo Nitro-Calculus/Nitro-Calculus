@@ -1,6 +1,10 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/3o85xAsvWZnf6zKvdu/giphy.gif" width="600" height="300"/>
+</div>
 
 <!--**Nitro-Calculus/Nitro-Calculus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+
+### About me :
 
 - 🔭 I'm working on the basics of computer programming.
 - 🌱 I'm currently learning: HTML5, CSS3, JavaScript, JQuery and Angular.
