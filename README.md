@@ -12,5 +12,4 @@
 - 🤔 I'm looking for help to progress in frontend and backend development and possibly any other programming language .
 - ❤️ Computer science a discovery.
 - ⭐I want to make a career in OOP development.
-- 📫 How to reach me : ggiorgxviii@outlook.fr
 - ⚡ Fun fact : I've been called the absent-minded professor.
