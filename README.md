@@ -12,7 +12,7 @@ I am an apprentice Web developer.
 - :globe_with_meridians: I'm looking to collaborate on website projects to start and hope to improve in the near future.
 - :mag_right: I'm looking for help to progress in web development and possibly any other programming language .
 - :dart: I want to make a career in OOP development.
-- :computer: Computer science, a discovery that will never stop entertaining me.
+- :computer: Computer science, a discovery that will never cease to amuse me.
 - :trollface: Fun fact : I've been called the absent-minded professor.
 ---
 ### Language and Tools :
