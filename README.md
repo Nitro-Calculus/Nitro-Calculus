@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.pngkey.com/png/full/398-3981558_igo-mid-winter-conference-network-png.png" width="400" height="200"/>
+  <img src="https://en.touhouwiki.net/images/thumb/6/6d/28F_render.png/400px-28F_render.png" width="400" height="200"/>
 </div>
 
 <!--**Nitro-Calculus/Nitro-Calculus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
