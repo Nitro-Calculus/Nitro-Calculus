@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://wp.technologyreview.com/wp-content/uploads/2018/12/screen-shot-2018-12-07-at-7.07.03-pm-12.png" width="400" height="200"/>
+  <img src="https://www.pngkey.com/png/full/398-3981558_igo-mid-winter-conference-network-png.png" width="400" height="200"/>
 </div>
 
 <!--**Nitro-Calculus/Nitro-Calculus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
