@@ -18,12 +18,20 @@ I am an apprentice Web developer.
 ### Language and Tools :
 
 <div>
-<img src ="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML" **alt="HTML" width="40" height="40"/>&nbsp;
-<img src ="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS" **alt="CSS" width="40" height="40"/>&nbsp;
-<img src ="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" **alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src ="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" title="JQuery" **alt="JQuery" width="40" height="40"/>&nbsp;
-<img src ="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg"  title="Nodejs" **alt="Nodejs" width="40" height="40"/>&nbsp;
-<img src ="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="Angular" **alt="Angular" width="40" height="40"/>
-  
+<img src ="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" 
+     title="HTML" **alt="HTML" width="40" height="40"/>&nbsp;
+<img src ="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" 
+     title="CSS" **alt="CSS" width="40" height="40"/>&nbsp;
+<img src ="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" 
+     title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>&nbsp;
+<img src ="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" 
+     title="JavaScript" **alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src ="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" 
+     title="JQuery" **alt="JQuery" width="40" height="40"/>&nbsp;
+<img src ="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg"
+     title="Nodejs" **alt="Nodejs" width="40" height="40"/>&nbsp;
+<img src ="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg"
+     title="Angular" **alt="Angular" width="40" height="40"/>
+ 
 </div>
 
