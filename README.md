@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://en.touhouwiki.net/images/thumb/6/6d/28F_render.png/400px-28F_render.png" width="400" height="200"/>
+  <img src="https://www.garlandtechnology.com/hubfs/blog-files/cloud%20lock.png" width="400" height="200"/>
 </div>
 
 <!--**Nitro-Calculus/Nitro-Calculus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
